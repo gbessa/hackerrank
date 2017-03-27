@@ -4,7 +4,7 @@ function processData(input) {
     var ret = [];
     var word = '';
         
-    for (i = 1; i <= arr[0]; i++) {
+    for (i = 1; i <= arr[0]; i++){
        var numChanges = 0;
        word = arr[i];
        var stringArr = [];
